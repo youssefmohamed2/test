@@ -1,1 +1,5 @@
-# test
+print("اسلك")
+print("يا")
+print("يوسف")
+print("توقيع")
+print("omarxfaxmax")
